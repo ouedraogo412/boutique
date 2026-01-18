@@ -305,9 +305,9 @@ body {
     .hero h1 {
         font-size: 1.875rem;
         font-weight: 700;
-        margin-bottom: 20px;
+        margin-bottom: 40px;
         line-height: 1.2;
-        margin-top: 20px;
+        margin-top: -50px;
     }
     
     .hero-subtitle {
@@ -336,15 +336,15 @@ body {
     .hero h1 {
         font-size: 1.5rem;
         font-weight: 700;
-        margin-bottom: 20px;
+        margin-bottom: 40px;
         line-height: 1.2;
-        margin-top: 20px;
+        margin-top: -50px;
     }
 .hero h2 {
-        font-size: 1.1rem;
+        font-size: 1.125rem;
         font-weight: 500;
         margin-bottom: 5px;
-        line-height: 1.1;
+        line-height: 1.2;
         font-style: italic;
     }
 
