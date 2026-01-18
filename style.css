@@ -63,6 +63,14 @@ body {
    justify-content:flex-start;
 
 }
+.important{
+    font-size:1.5rem;
+    font-weight:bold;
+    margin-bottom:20px;
+    color:red;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
 
 .hero-subtitle {
     font-size: 1.25rem;
